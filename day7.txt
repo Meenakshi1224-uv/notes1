@@ -1,0 +1,20 @@
+FUNCTIONS
+
+Lambda functions 
+Mapfunctions
+Filter functions
+Zip functions 
+
+(refer the colab for eg)
+
+OOP CONCEPTS
+
+• Encapsulation: Bundles data and the methods that operate on it into a single unit (a class). It restricts direct access to internal data, typically using private variables and public "getter" or "setter" methods to protect the object's state. 
+• Abstraction: Hides complex internal implementation details and shows only the essential features to the user. For example, you can use a remote control without knowing the circuitry inside. 
+• Inheritance: Allows a new class (child/subclass) to acquire the properties and behaviors of an existing class (parent/superclass). This promotes code reusability and creates a logical "is-a" relationship (e.g., a "Car" is a "Vehicle").
+• Polymorphism: Means "many forms". It allows a single method or interface to behave differently based on the object it is acting upon. This is often achieved through method overloading (compile-time) and method overriding (runtime). 
+Core Components
+• Class: A user-defined blueprint or prototype (e.g., "Car").
+• Object: A specific instance created from a class (e.g., a "Toyota Camry").
+• Methods: Collections of statements that perform specific tasks or actions for an object.or functions created inside class
+• Attributes/Fields: Variables that belong to a class and define an object's state. Or variables that created inside class
