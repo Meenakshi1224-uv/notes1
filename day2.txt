@@ -1,0 +1,37 @@
+1->   Data Science works on travel,healthcare,sales,credt and insurance,marketing ,social media,automation.
+
+2-> data science can  use ai and ml,deep learning and maths and statistics visualization EDA
+
+3-> the world generates 460+exabytes  of data every day
+
+4-> teachable machine in chrome to train the images 
+
+                            
+
+
+   association in term of dimensionality reductiion.                            
+
+
+
+
+High level object oriented ,interpreted,dynamic semantics language.
+NumPy is a python library for large multi dimensional array processing.
+Pandas is build on top of NumPy.
+Scikit learn is a ml learning in python.
+
+
+
+
+
+How the Test Works
+The classic setup, which Turing called the "Imitation Game," involves three participants:
+	1. A Human Evaluator: A judge who engages in a text-based conversation with two parties.
+	2. A Human Participant: A real person providing natural responses.
+	3. A Machine: An AI designed to mimic human conversation.
+The judge is separated from the other two and does not know which is which. If the judge cannot reliably tell the machine from the human based on the conversation, the machine is said to have passed the test.
+                                     
+
+
+WHAT IS PYTHON ?
+  
+TURING TEST
