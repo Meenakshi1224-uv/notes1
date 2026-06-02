@@ -1,0 +1,26 @@
+Iterative statement
+
+Two types of loop-Definite and Indefinite loop
+
+For Loop
+For loops is used to iterate over a sequence such as a list, tuple, string or range. It executes a block of code once for each item in the sequence.
+n = 4
+for i in range(0, n):
+    print(i)
+
+
+While loop repeatedly executes a block of code as long as the given condition remains true. When the condition becomes false, the line immediately after the loop in the program is executed.
+cnt = 0
+while (cnt < 3):
+    cnt = cnt + 1
+    print("Hello Geek")
+
+
+Nested while loop 
+while condition1:
+    # Code in the outer loop
+    while condition2:
+        # Code in the inner loop
+        # Update inner condition
+    # Update outer condition
+
