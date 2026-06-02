@@ -1,0 +1,13 @@
+CONDITIONAL STATEMENT
+
+• if: The starting condition.
+• elif (else if): Checked if the first if was false.
+• else: The "fallback" plan if nothing else was true.
+
+score = 85
+ if score >= 90:
+ print("Grade: A")
+ elif score >= 80:
+ print("Grade: B") 
+else: 
+print("Grade: C")
