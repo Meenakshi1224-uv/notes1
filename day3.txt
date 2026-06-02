@@ -1,0 +1,8 @@
+1->IDE-integrated development environment(vs code is used)
+
+2->Snake case uses underscore
+
+3->Venv is used for creating virtual environment
+
+4->To add image in google collab take text and type image  and select it 
+and add image address and add exclamation mark in front of the image
