@@ -33,5 +33,14 @@ The judge is separated from the other two and does not know which is which. If t
 
 
 WHAT IS PYTHON ?
+
+   Python is a popular programming language that is designed to be easy to read and write. It is used for many purposes, including:
+
+🌐 Web development (building websites and web applications)
+📊 Data analysis and visualization
+🤖 Artificial intelligence and machine learning
+🔬 Scientific computing
+🎮 Game development
+⚙️ Automation and scripting
   
 TURING TEST
